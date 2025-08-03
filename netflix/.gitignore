@@ -1,5 +1,14 @@
+# dbt generated folders
 dbt_packages/
 dbt_internal_packages/
 target/
+
+# Local virtual environment
+venv/
+
+# Environment config
 .env
 .envrc
+
+# Logs (optional)
+logs/
